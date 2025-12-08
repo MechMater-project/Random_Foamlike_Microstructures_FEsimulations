@@ -11,10 +11,10 @@ These microstructures have been used for severe compression, up to 95%, by finit
 The explicit Abaqus input files for uniaxial compression are also available. 
 
 The nomenclature is the following Voro80-11_008_922
-# of pores 80
-# label of the micrsture 11
-# maximum length of elements 0.008 knowing that the cube is of length 1
-# Porosity 92.2%
+- Number of pores 80
+- label of the micrsture 11
+- maximum length of elements 0.008 knowing that the cube is of length 1
+- Porosity 92.2%
 
 Please cite [1] and the github link if you use some of these files.
 
