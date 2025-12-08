@@ -17,4 +17,5 @@ The nomenclature is the following Voro80-11_92
 - Porosity 92.%
 
 Please cite [1] and the github link if you use some of these files.
+
 STL and Abaqus input files are too large to be shared here. You may contact the authors.
