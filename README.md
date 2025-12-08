@@ -1,5 +1,6 @@
 # Random_Foamlike_Microstructures_FEsimulations
-STL format and Abaqus mesh inp files for random porous microstructures like foams are distributed here.
+Netgen geo files for random porous microstructures like foams are distributed here.
+This file can be loaded and mesh with Netgen GUI. 
 
 The microstructures have been build by shrinking Voronoi volumes obtained from randomly distributed seed points in a unit cube.
 Building procedure is provided in 
@@ -17,4 +18,4 @@ The nomenclature is the following Voro80-11_008_922
 - Porosity 92.2%
 
 Please cite [1] and the github link if you use some of these files.
-
+STL and Abaqus input files are too large to be shared here. You may contact the authors.
