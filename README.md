@@ -1,6 +1,6 @@
 # Random_Foamlike_Microstructures_FEsimulations
 Netgen geo files for random porous microstructures like foams are distributed here.
-This file can be loaded and mesh with Netgen GUI. 
+These files can be loaded and mesh with Netgen GUI. 
 
 The microstructures have been build by shrinking Voronoi volumes obtained from randomly distributed seed points in a unit cube.
 Building procedure is provided in 
