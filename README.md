@@ -9,7 +9,6 @@ Building procedure is provided in
 https://doi.org/10.1016/j.mechmat.2025.105566
 
 These microstructures have been used for severe compression, up to 95% or until divergence, by finite element simulations.
-The explicit Abaqus input files for uniaxial compression are also available. 
 
 The nomenclature is the following Voro80-11_92
 - Number of pores 80
