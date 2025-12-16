@@ -5,10 +5,10 @@ These files can be loaded and mesh with Netgen GUI.
 The microstructures have been build by shrinking Voronoi volumes obtained from randomly distributed seed points in a unit cube.
 Building procedure is provided in 
 
-[1] T. Merlette, J. Diani, 2025. 3D finite element investigation of hyperelastic foam behavior. I. Voronoi closed-cell microstructures, Mechanics of Materials, 105566.
+[1] T. Merlette, J. Diani, 2026. 3D finite element investigation of hyperelastic foam behavior. I. Voronoi closed-cell microstructures, Mechanics of Materials, 105566.
 https://doi.org/10.1016/j.mechmat.2025.105566
 
-These microstructures have been used for severe compression, up to 95%, by finite element simulations.
+These microstructures have been used for severe compression, up to 95% or until divergence, by finite element simulations.
 The explicit Abaqus input files for uniaxial compression are also available. 
 
 The nomenclature is the following Voro80-11_92
